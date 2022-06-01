@@ -4,3 +4,5 @@ A web service that performs the following functions:
 
 The first graph shows the history of changes in the instantaneous CPU load.
 The second one displays a graph of the average CPU load (the average value for 1 minute)
+
+
