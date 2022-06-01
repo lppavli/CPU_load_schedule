@@ -9,7 +9,7 @@ To launch the application, you need:
 
 1. Open folder, install requirements.txt
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 2. Run the file load_proccess.py to populate the database.
 3. Run the file main.py.
